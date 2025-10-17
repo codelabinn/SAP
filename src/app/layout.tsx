@@ -34,11 +34,11 @@ export const metadata: Metadata = {
   ],
   authors: [
     {
-      name: "Sarath Adhithya",
-      url: "https://sarathadhi.com",
+      name: "Amna Fayyaz",
+      url: "https://codelabinn.com",
     },
   ],
-  creator: "Sarath Adhithya",
+  creator: " Amna Fayyaz",
   metadataBase: new URL(siteConfig.url),
   openGraph: {
     type: "website",
@@ -54,7 +54,7 @@ export const metadata: Metadata = {
     title: siteConfig.name,
     description: siteConfig.description,
     images: [siteConfig.ogImage],
-    creator: "@AdhithyaSarath",
+    creator: "@FayyazAmna24813",
   },
   icons: {
     icon: "/favicon.ico",

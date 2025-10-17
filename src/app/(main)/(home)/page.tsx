@@ -29,7 +29,7 @@ const HomePage = () => {
           </Button>
 
           <Button variant="outline" className="rounded-full">
-            <a href="https://github.com/SarathAdhi/next-supabase-auth">
+            <a href="https://github.com/amnafayyazahmad/SAP">
               GitHub
             </a>
           </Button>
@@ -53,7 +53,7 @@ const HomePage = () => {
 
         <Button size="sm" asChild>
           <a
-            href="https://github.com/SarathAdhi/next-supabase-auth"
+            href="https://github.com/amnafayyazahmad"
             target="_blank"
           >
             View on GitHub

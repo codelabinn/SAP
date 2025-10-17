@@ -18,7 +18,7 @@ export const siteConfig: SiteConfig = {
   url: baseUrl,
   ogImage: `${baseUrl}/open-graph.png`,
   links: {
-    twitter: "https://twitter.com/AdhithyaSarath",
-    github: "https://github.com/SarathAdhi",
+    twitter: "https://twitter.com/FayyazAmna24813",
+    github: "https://github.com/amnafayyazahmad",
   },
 };
